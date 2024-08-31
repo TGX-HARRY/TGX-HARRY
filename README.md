@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TGX-HARRY
+- 👋 Hi, I’m Hemang!
 - 👀 I’m interested in Coding and Gaming + Vibing
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on nothing yet
+- 🌱 I’m currently learning Python and JS language
+- 💞️ I’m looking to collaborate being a fresher in college
 - 📫 How to not reach me - You know yourself :D 
 
 <!---
