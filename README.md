@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Hemang!
+- ⚡ CSE - 1st Year Student At Chitkara University
 - 👀 I’m interested in Coding and Gaming + Vibing
-- 🌱 I’m currently learning Python and JS language
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate being a fresher in college
 - 📫 How to not reach me - You know yourself :D 
 
