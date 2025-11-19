@@ -1,6 +1,6 @@
-## 👋 Hi there, I'm [Your Name]!
+## 👋 Hi there, I'm Hemang Mittal!
 
-### 💻 2nd Year Computer Science Student | Aspiring [Your Primary Role, e.g., Software Developer, Data Scientist]
+### 💻 2nd Year Computer Science Student | Aspiring Software Developer.
 
 I'm currently focused on **Exploring Data Structures and Algorithms** and exploring **full-stack web development**. I believe in learning by building and actively maintain several projects that apply academic concepts to real-world problems.
 
@@ -26,8 +26,9 @@ I'm currently focused on **Exploring Data Structures and Algorithms** and explor
 
 | Activity Overview | Overall Metrics |
 | :--- | :--- |
-| **Top Languages:** <br> `![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TGX-HARRY&layout=compact&theme=vision-friendly)` | **Overall Stats:** <br> `![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TGX-HARRY&show_icons=true&theme=vision-friendly&hide_border=true)` |
-| **Commit Streak:** <br> `![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=TGX-HARRY&theme=vision-friendly&hide_border=true)` | **Most Used Tool/Language:** <br> `[You can add another badge or custom image here, or remove this column.]` |
+| **Top Languages:** <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TGX-HARRY&layout=compact&theme=vision-friendly) | **Overall Stats:** <br> ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TGX-HARRY&show_icons=true&theme=vision-friendly&hide_border=true) |
+| **Commit Streak:** <br> ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=TGX-HARRY&theme=vision-friendly&hide_border=true) | **Most Used Tool/Language:** <br> *(You can add any badge/image here)* |
+
 
 ---
 
