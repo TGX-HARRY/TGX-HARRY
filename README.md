@@ -26,8 +26,9 @@ I'm currently focused on **Exploring Data Structures and Algorithms** and explor
 
 | Activity Overview | Overall Metrics |
 | :--- | :--- |
-| **Top Languages:** <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TGX-HARRY&layout=compact&theme=vision-friendly) | **Overall Stats:** <br> ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TGX-HARRY&show_icons=true&theme=vision-friendly&hide_border=true) |
-| **Commit Streak:** <br> ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=TGX-HARRY&theme=vision-friendly&hide_border=true) | **Most Used Tool/Language:** <br> *(You can add any badge/image here)* |
+| **Top Languages:** <br> ![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=TGX-HARRY&layout=compact&theme=vision-friendly) | **Overall Stats:** <br> ![Your GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=TGX-HARRY&show_icons=true&theme=vision-friendly&hide_border=true) |
+| **Commit Streak:** <br> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TGX-HARRY&theme=vision-friendly&hide_border=true) | **Most Used Tool/Language:** <br> *(Add your badge/image here)* |
+
 
 
 ---
