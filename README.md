@@ -11,7 +11,7 @@ I'm currently focused on **Exploring Data Structures and Algorithms** and explor
 | Category | Skills & Languages |
 | :--- | :--- |
 | **Primary Languages** | **C**, **C++**, **Java** |
-| **Web Development** | **HTML5, CSS3, JavaScript (ES6+), React, Node.js** |
+| **Web Development** | **HTML5, CSS3, JavaScript (ES6+), React, Node.js, Express.js** |
 | **Databases & Tools** | **MySQL, Git, Linux** |
 | **Concepts** | **Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Operating Systems (OS)** |
 
